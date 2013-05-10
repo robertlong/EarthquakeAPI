@@ -1,0 +1,9 @@
+development:
+  adapter: postgresql
+  host: localhost
+  database: earthquakeapi
+
+test:
+  adapter: postgresql
+  host: localhost
+  database: earthquakeapi_test
